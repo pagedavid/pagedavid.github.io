@@ -6,7 +6,7 @@
     <nav class="site-nav">
       <div class="trigger">
         {% for my_page in site.pages %}
-	  {% unless page.exclude %}
+	  {% unless my_page.exclude %}
             {% if my_page.title %}
             <a class="page-link" href="{{ relative }}{{my_page.url}}index.html">{{ my_page.title | escape }}</a>
             {% endif %}
