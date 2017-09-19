@@ -1,0 +1,17 @@
+{% include background.html %}
+<header class="site-header" role="banner">
+  <div class="wrapper">
+    <a class="site-title" href="{{ relative }}/index.html">{{ site.title | escape }}</a>
+    <!--<a class="site-title" href="{{ "/" | relative_url}}">{{ site.title | escape }}</a>-->
+    <nav class="site-nav">
+      <div class="trigger">
+        {% for my_page in site.pages %}
+          {% if my_page.title %}
+          <a class="page-link" href="{{ relative }}{{my_page.url}}index.html">{{ my_page.title | escape }}</a>
+          <!--<a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>-->
+          {% endif %}
+        {% endfor %}
+      </div>
+    </nav>
+  </div>
+</header>

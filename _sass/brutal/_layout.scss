@@ -1,0 +1,23 @@
+body {
+  max-width: 50em;
+}
+main {
+  margin-left: 7em;
+  position: relative;
+  z-index: 50;
+}
+header, footer {
+  position: relative;
+  z-index: 100;
+}
+/**
+ * Site background
+ */
+.background-wrapper {
+  position: fixed;
+  bottom:50%;
+  left:-19em;
+  transform: rotate(-90deg);
+  z-index: 0;
+  white-space: nowrap;
+}

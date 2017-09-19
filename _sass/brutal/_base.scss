@@ -1,0 +1,52 @@
+html {
+	background-color: white;
+	font-family: monospace;
+	font-size: 1em;
+}
+.background-text {
+  font-size: 10em;
+  line-height: 0;
+  padding: 0em;
+  margin: 0em;
+  font-weight: 900;
+  color: #f2f2f2;
+  white-space: nowrap;
+  text-transform: uppercase;
+  letter-spacing: -.12em;
+}
+.site-header {
+  border-bottom: 1px solid black;
+    a {
+    color: black;
+    text-decoration: none;
+    border-bottom: 2px solid black;
+  }
+  a:hover {
+    color: red;
+    border-bottom: 2px solid red;
+    border-top: 2px solid red;
+  }
+}
+.site-title {
+  font-weight: bold;
+  text-decoration: none;
+}
+.site-nav {
+  float: right;
+  background-color: white;
+}
+#you-are-here-now {
+	background-color: white;
+	display: inline-block;
+	position: relative;
+	z-index: 10;
+}
+.img-homepage {
+	position: fixed;
+	bottom: .5em;
+	z-index: 1;
+	overflow: hidden;
+}
+.float-right { 
+	float: right;
+}
