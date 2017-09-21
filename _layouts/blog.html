@@ -11,7 +11,7 @@ layout: default
   <div class="post-list">
     {% for post in site.posts %}
       <article>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }} <!--• <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{% if post.author %} {{ post.author }} {% else %} {{site.author}}{% endif %}</span></span>--></span>
 
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
