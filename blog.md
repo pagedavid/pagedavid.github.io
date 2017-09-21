@@ -3,4 +3,4 @@ layout: blog
 title: Blog
 permalink: /blog/
 ---
-Coming Shortly! (Enjoy these test post for now.)
+Original content coming shortly! (Enjoy these test posts for now.)
