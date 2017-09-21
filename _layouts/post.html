@@ -12,6 +12,17 @@ layout: default
     {{ content }}
   </div>
 
+  <hr>
+
+  <footer class="post-navigation">
+    {% if page.previous.url %}
+      <p><strong>Previous Post:</strong> <a class="previos-post" href="{{page.previous.url}}">{{page.previous.title}}</a></p>
+    {% endif %}
+    {% if page.next.url %}
+      <p><strong>Next Post:</strong> <a class="next-post" href="{{page.next.url}}">{{page.next.title}}</a></p>
+    {% endif %}
+  </footer>
+
   {% if site.disqus.shortname %}
     {% include disqus_comments.html %}
   {% endif %}
