@@ -15,3 +15,6 @@ Though most of my developmental experience has been in Wordpress, I've picked up
 I've taken courses in web design, programming, and databases, where I've developed my hacker ethos of if I don't know it, I'll learn it. I bring that mentality to all of my work, whether it's designing a system to record and live-stream events or configuring a friend's home network.
 
 From my volunteer experience I've learned that everyone can (and wants to) have something meaningful to offer, and it's simply up to me to realize what that is and encourage it.
+
+**About other things**
+- [This site]({{ site.baseurl }}{% post_url 2017-09-21-making-pagedavid-com %})
