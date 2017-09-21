@@ -23,11 +23,22 @@ award-winning website for an award-winning experimental short film
 porfolio website for a Charlotte, NC based artist
 
 ## [thisishowyoudancetoskirt.com](http://thisishowyoudancetoskirt.com)
-record-release website for a band
+record-release website for a Philadelphia based band
+
+## [trusalonofdresher.com](http://trusalonofdresher.com/)
+hair salon website
+
+## [turnpikeacre.net](http://turnpikeacre.net/)
+music website for a Philadelphia based musician
+
+## [fngrd.com](http://fngrd.com)
+portfolio website for New York City based filmmaker
 
 ------
 
 ## Past Work ![Bunny]({{relative}}/assets/bunny.png){:class="float-right"}
+
+(no longer online or since redesigned)
 
 **camp.stns.us**
 registration and payment website for a summer camp
