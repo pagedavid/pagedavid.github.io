@@ -13,28 +13,26 @@ church website
 ## [stthomas.life](http://stthomas.life)
 landing page for a church's Easter & Christmas service schedule
 
-## [fearlessandloathing.com](http://fearlessandloathing.com) 
-online news website that I founded as a student at Oberlin College
+## [thisishowyoudancetoskirt.com](http://thisishowyoudancetoskirt.com)
+record-release website for a Philadelphia based band
 
 ## [krutchfilm.com](http://krutchfilm.com)
 award-winning website for an award-winning experimental short film
 
-## [samguzzie.com](http://samguzzie.com)
-porfolio website for a Charlotte, NC based artist
-
-## [thisishowyoudancetoskirt.com](http://thisishowyoudancetoskirt.com)
-record-release website for a Philadelphia based band
+## [fearlessandloathing.com](http://fearlessandloathing.com) 
+news website that I founded as a student at Oberlin College
 
 ## [trusalonofdresher.com](http://trusalonofdresher.com/)
 hair salon website
+
+## [samguzzie.com](http://samguzzie.com)
+porfolio website for a Charlotte, NC based artist
 
 ## [turnpikeacre.net](http://turnpikeacre.net/)
 music website for a Philadelphia based musician
 
 ## [fngrd.com](http://fngrd.com)
 portfolio website for New York City based filmmaker
-
-------
 
 ## Past Work ![Bunny]({{relative}}/assets/bunny.png){:class="float-right"}
 
@@ -51,3 +49,15 @@ landing/contact page for a Pennsylvania-based political consulting company
 
 **voteannelazarus.com**
 campaign website for Pennsylvania Supreme Court candidate
+
+## Video and Photography
+
+**[Bell Tower Tour](https://www.youtube.com/watch?v=Ldtrq54tKhs)** short video of St. Thomas' carillon
+
+**[Sunday Faith Forum](https://www.youtube.com/playlist?list=PL4vXQcMa2y136hrO3g99sSx6gJPlN2QSi)** speaker series
+
+**[Photography at St. Thomas' Church, Whitemarsh](https://photos.app.goo.gl/BswYVzo8w0Ocz88k2)** select photos from events 
+
+## Interviews and Journalism
+
+Coming shortly!
