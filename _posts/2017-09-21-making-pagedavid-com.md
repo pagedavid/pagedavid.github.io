@@ -2,7 +2,6 @@
 layout: post
 title: Making pagedavid.com
 ---
-
 My brother describes my webdesign aesthetic as "Shaker-minimal." Personally, I don't like over-designed sites and bloated code so that's what I did here. I guess it's kind of a "Brutalist" approach? Minus the intentional ugly/unusable.
 
 I've worked with Jekyll and Middleman to design static sites in the past, and picked Jekyll for this one because I planned to host it on Github. (Woo free hosting!) I started off with the Minima theme and stripped the CSS. You can [see the source code here](https://github.com/pagedavid/pagedavid.github.io).
