@@ -11,13 +11,13 @@ ecommerce website for a vitamin company
 church website
 
 ## [stthomas.life](http://stthomas.life)
-landing page for a church's Easter & Christmas service schedule
+landing page for a church's Easter & Christmas service schedule [read more]({{ site.baseurl }}{% post_url 2017-09-22-making-stthomas-life %})
 
 ## [thisishowyoudancetoskirt.com](http://thisishowyoudancetoskirt.com)
-record-release website for a Philadelphia based band
+record-release website for a Philadelphia based band [read more]({{ site.baseurl }}{% post_url 2017-09-22-making-thisishowyoudancetoskirt-com %})
 
 ## [krutchfilm.com](http://krutchfilm.com)
-award-winning website for an award-winning experimental short film
+award-winning website for an award-winning experimental short film [read more]({{ site.baseurl }}{% post_url 2017-09-22-making-krutchfilm-com %})
 
 ## [fearlessandloathing.com](http://fearlessandloathing.com) 
 news website that I founded as a student at Oberlin College
