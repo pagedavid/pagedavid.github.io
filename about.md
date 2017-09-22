@@ -18,3 +18,4 @@ From my volunteer experience I've learned that everyone can (and wants to) have 
 
 **About other things**
 - [This site]({{ site.baseurl }}{% post_url 2017-09-21-making-pagedavid-com %})
+- [Video and Photography Experience]({{ site.baseurl }}{% post_url 2017-09-22-video-and-photography-experience %})
