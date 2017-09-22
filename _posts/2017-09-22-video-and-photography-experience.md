@@ -1,0 +1,19 @@
+---
+layout: post
+title: Video and Photography Experience
+---
+I don't claim to be a photographer or videographer/editor, but while working at St. Thomas' I had the chance to produce some multimedia content. Neither are fields I want to go into, though I have always had an interest in them. I took them as opportunities to learn and to do the best I could with what I had.
+
+For photography I had a [Nikon D3000](http://imaging.nikon.com/lineup/dslr/d3000/spec.htm). I've always wanted to mess around with a DSLR, and while the Nikon was an older model it still gave me the chance to control the shutter speed, aperture and focus. It was also the first time I was shooting RAW and processing them with [UFRaw](http://ufraw.sourceforge.net/).
+
+I'm [proud of the photos](https://photos.google.com/share/AF1QipPs5bkVXZRG16ZnEW0pxy8qAo_GXCeahkEAqJ2g9QCgi0PnYlvCuzNPIgeEDE-AmA?key=SmlOYkJKTlQxdEVQN3dsWFJXQ2hzektwbHJPa193) I shot at events. They aren't arty as far as the camera settings went. My goal, and if this isn't common sense then it comes from my journalism in college, was to take photos that had an interesting story in them.
+
+Every Christmas and Easter the Flower Guild goes all out on the altar display, and I used that as a reason to give time-lapse photography a try. The Nikon didn't have a time-lapse setting, but I knew it had a USB port and learned that it can be controlled through a computer. I did my research and found that if I used [gPhoto2](http://gphoto.sourceforge.net/) and the [scripts here](http://photodoto.com/tethered-shooting-with-linux/) I could take a picture at set intervals and transfer them to the computer. I rendered the photos into [this video](https://www.youtube.com/watch?v=RJDkbidFZ5M) using [Blender](https://www.blender.org/). Unfortunately, the camera can't both charge and take photos, and we only had one battery. I hoped it would last through the 4-5 hour setup, but alas...it only lasted about halfway through. 
+
+I also had never really shot video. The church's camera was a [Vixia HF R52](https://shop.usa.canon.com/shop/en/catalog/vixia-hf-r52), and a $20 photography tripod. Even though the Vixia could shoot 1080p, with just the camera mic the audio would be terrible. Bad audio kills even the best video. Also, with the tripod any smooth panning was virtually impossible. I still wanted to make whatever I shot as professional as I could, and the way to do that I figured was to take audio off the speaker system and not move the camera.
+
+So that's exactly what I did for the Sunday speaker series. I'd set up my shot, plugged in a digital voice recorder to the headphone jack on the PA system and hit record. I'd use [Audacity's](http://www.audacityteam.org/) noise removal filter and normalize and equalize the audio, and then use Blender to sync it to the video and render the final video. I designed the title cards in [GIMP](https://www.gimp.org/).
+
+Given the decisions I made when shooting speakers I never really had to edit the video much. One exception was when the rector featured a slideshow in his talk. The projector in the auditorium at the time was very weak and wouldn't show up well on camera. I decided to install [Simple Screen Recorder](http://www.maartenbaert.be/simplescreenrecorder/) on my work laptop and record there while he flipped through his PowerPoint slides. I rendered that video on top of what the camera shot, and I think [the resulting video](https://www.youtube.com/watch?v=UQs3919wUWE&index=13&list=PL4vXQcMa2y136hrO3g99sSx6gJPlN2QSi) turned out well.
+
+I'm pretty surprised by how many plays my [Bell Tower Tour video](https://www.youtube.com/watch?v=Ldtrq54tKhs&t=3s) has gotten. It's really the only video with an involved shooting and editing process.
