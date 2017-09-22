@@ -4,6 +4,8 @@ title: Video and Photography Experience
 ---
 I don't claim to be a photographer or videographer/editor, but while working at St. Thomas' I had the chance to produce some multimedia content. Neither are fields I want to go into, though I have always had an interest in them. I took them as opportunities to learn and to do the best I could with what I had.
 
+Do I expect to keep doing phototography and videos for future jobs? No, not really. I didn't expect to do so much of it at St. Thomas' when I started. But I think what I did there is a good example of how I dive into new areas.
+
 For photography I had a [Nikon D3000](http://imaging.nikon.com/lineup/dslr/d3000/spec.htm). I've always wanted to mess around with a DSLR, and while the Nikon was an older model it still gave me the chance to control the shutter speed, aperture and focus. It was also the first time I was shooting RAW and processing them with [UFRaw](http://ufraw.sourceforge.net/).
 
 I'm [proud of the photos](https://photos.google.com/share/AF1QipPs5bkVXZRG16ZnEW0pxy8qAo_GXCeahkEAqJ2g9QCgi0PnYlvCuzNPIgeEDE-AmA?key=SmlOYkJKTlQxdEVQN3dsWFJXQ2hzektwbHJPa193) I shot at events. They aren't arty as far as the camera settings went. My goal, and if this isn't common sense then it comes from my journalism in college, was to take photos that had an interesting story in them.
@@ -12,7 +14,7 @@ Every Christmas and Easter the Flower Guild goes all out on the altar display, a
 
 I also had never really shot video. The church's camera was a [Vixia HF R52](https://shop.usa.canon.com/shop/en/catalog/vixia-hf-r52), and a $20 photography tripod. Even though the Vixia could shoot 1080p, with just the camera mic the audio would be terrible. Bad audio kills even the best video. Also, with the tripod any smooth panning was virtually impossible. I still wanted to make whatever I shot as professional as I could, and the way to do that I figured was to take audio off the speaker system and not move the camera.
 
-So that's exactly what I did for the Sunday speaker series. I'd set up my shot, plugged in a digital voice recorder to the headphone jack on the PA system and hit record. I'd use [Audacity's](http://www.audacityteam.org/) noise removal filter and normalize and equalize the audio, and then use Blender to sync it to the video and render the final video. I designed the title cards in [GIMP](https://www.gimp.org/).
+So that's exactly what I did for the [Sunday speaker series](https://www.youtube.com/watch?v=fkJYTu1DaJ0&list=PL4vXQcMa2y136hrO3g99sSx6gJPlN2QSi). I'd set up my shot, plugged in a digital voice recorder to the headphone jack on the PA system and hit record. I'd use [Audacity's](http://www.audacityteam.org/) noise removal filter and normalize and equalize the audio, and then use Blender to sync it to the video and render the final video. I designed the title cards in [GIMP](https://www.gimp.org/).
 
 Given the decisions I made when shooting speakers I never really had to edit the video much. One exception was when the rector featured a slideshow in his talk. The projector in the auditorium at the time was very weak and wouldn't show up well on camera. I decided to install [Simple Screen Recorder](http://www.maartenbaert.be/simplescreenrecorder/) on my work laptop and record there while he flipped through his PowerPoint slides. I rendered that video on top of what the camera shot, and I think [the resulting video](https://www.youtube.com/watch?v=UQs3919wUWE&index=13&list=PL4vXQcMa2y136hrO3g99sSx6gJPlN2QSi) turned out well.
 
