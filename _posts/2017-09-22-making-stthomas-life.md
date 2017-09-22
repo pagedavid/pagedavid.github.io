@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Making Stthomas.life
+title: Making stthomas.life
 ---
 Every church knows that there is a category of people who go to church twice a year. Basically, they only care to know what time the services are on Christmas and Easter. Getting that information in front of them is a huge part of the communications during those seasons.
 

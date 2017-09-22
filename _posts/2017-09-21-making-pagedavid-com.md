@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Making pagedavid.com'
+title: Making pagedavid.com
 ---
 
 My brother describes my webdesign aesthetic as "Shaker-minimal." Personally, I don't like over-designed sites and bloated code so that's what I did here. I guess it's kind of a "Brutalist" approach? Minus the intentional ugly/unusable.

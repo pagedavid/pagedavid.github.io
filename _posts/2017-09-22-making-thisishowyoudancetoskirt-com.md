@@ -1,6 +1,6 @@
 ---
 layout: post
-title: making thisishowyoudancetoskirt.com
+title: Making thisishowyoudancetoskirt.com
 ---
 Three friends I know from highschool have a band and I had the idea for this website while sitting in on a practice. They all have an affinity for hard 70's rock and album design, so why not make them a site that navigates like one?
 
