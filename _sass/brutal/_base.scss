@@ -54,3 +54,12 @@ html {
 h1 {
   font-size: 150%;
 }
+
+.homepage h2 {
+  position: relative;
+  z-index: 10;
+}
+
+.homepage a {
+  background-color: white;
+}
