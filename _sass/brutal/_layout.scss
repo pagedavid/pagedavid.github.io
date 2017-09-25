@@ -10,10 +10,9 @@ header, footer {
   position: relative;
   z-index: 100;
 }
-/**
- * Site background
- */
-.background-wrapper {
+
+.background-wrapper,
+.homepage .background-wrapper {
   position: fixed;
   bottom:50%;
   left:-19em;
@@ -24,4 +23,19 @@ header, footer {
 
 .post-list h2 {
   margin-top: 0em;
+}
+
+@media screen and (max-width: 600px) {
+  main {
+    margin-left: 0em;
+  }
+  .background-wrapper {
+    display: none;
+  }
+  .homepage main {
+    margin-left: 7em;
+  }
+  .homepage .background-wrapper {
+    display: initial;
+  }
 }
