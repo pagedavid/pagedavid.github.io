@@ -2,7 +2,7 @@
 layout: default
 ---
 {% include relative.html %}
-<p><a href="{{relative}}/blog/index.html">Back to Blog</a></p>
+<p><a href="{{ relative }}/blog/">Back to Blog</a></p>
 
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
@@ -18,12 +18,12 @@ layout: default
   <hr>
 
   <footer class="post-navigation">
-    <p><a href="{{relative}}/blog/index.html">Back to Blog</a></p>
+    <p><a href="{{relative}}/blog/">Back to Blog</a></p>
     {% if page.previous.url %}
-      <p><strong>Previous Post:</strong> <a href="{{page.previous.url}}">{{page.previous.title}}</a></p>
+      <p><strong>Previous Post:</strong> <a href="{{ relative }}{{page.previous.url}}">{{page.previous.title}}</a></p>
     {% endif %}
     {% if page.next.url %}
-      <p><strong>Next Post:</strong> <a href="{{page.next.url}}">{{page.next.title}}</a></p>
+      <p><strong>Next Post:</strong> <a href="{{ relative }}{{page.next.url}}">{{page.next.title}}</a></p>
     {% endif %}
   </footer>
 

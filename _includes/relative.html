@@ -1,5 +1,5 @@
 {% assign relative = '' %}
-{% assign depth = page.url | split: '/' | size %}
+{% assign depth = page.url | split: '/' | size + 1 %}
 {% if    depth <= 1 %}{% assign relative = '.' %}
 {% elsif depth == 2 %}{% assign relative = '..' %}
 {% elsif depth == 3 %}{% assign relative = '../..' %}

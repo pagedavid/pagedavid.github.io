@@ -1,3 +1,4 @@
+{% include relative.html %}
 <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" href="{{ relative }}/index.html">{{ site.title | escape }}</a>
@@ -7,7 +8,7 @@
         {% for my_page in site.pages %}
 	  {% unless my_page.exclude %}
             {% if my_page.title %}
-            <a class="page-link" href="{{ relative }}{{my_page.url}}index.html">{{ my_page.title | escape }}</a>
+            <a class="page-link" href="{{ relative }}{{my_page.url}}">{{ my_page.title | escape }}</a>
             {% endif %}
 	  {% endunless %}
         {% endfor %}
