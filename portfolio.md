@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Work
-permalink: /work/
+title: Portfolio
+permalink: /portfolio/
 ---
 {% include relative.html %}
+## Current
+
 **[inovera.com](https://inovera.com)**
 ecommerce website for a vitamin company
 
@@ -34,7 +36,7 @@ music website for a Philadelphia based musician
 **[fngrd.com](http://fngrd.com)**
 portfolio website for New York City based filmmaker
 
-## Past Work ![Bunny]({{relative}}/assets/bunny.png){:class="float-right"}
+## Past ![Bunny]({{relative}}/assets/bunny.png){:class="float-right"}
 
 (no longer online or since redesigned)
 
