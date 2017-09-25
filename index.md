@@ -8,8 +8,7 @@ exclude: true
 {% include relative.html %}
 ## [About]({{ relative }}/about/)
 ## [Blog]({{ relative }}/blog/)
-## [Resume]({{ relative }}/Resume/)
-## [Work]({{ relative }}/work/)
+## [Portfolio]({{ relative }}/portfolio/)
+## [Resume]({{ relative }}/resume/)
 
 ![Groundhog]({{ relative }}/assets/groundhog.png){:class="img-homepage"}
-
