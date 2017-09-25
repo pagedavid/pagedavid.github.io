@@ -17,10 +17,10 @@ title: Page David
 email: davideclark2012@gmail.com
 author: David Edward Clark
 description: > # this means to ignore newlines until "baseurl:"
-  A simple website to share my resume and work, and maybe do a little blogging.
+  A simple website to share my resume and work, and do a little blogging.
 baseurl: "" # /pagedavid the subpath of your site, e.g. /blog
 url: "" # http://192.168.1.14/pagedavid the base hostname & protocol for your site, e.g. http://example.com
-permalink: /blog/:slug/
+permalink: /blog/:title/
 twitter_username: 
 github_username:  
 
