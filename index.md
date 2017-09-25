@@ -5,8 +5,11 @@
 layout: default
 exclude: true
 ---
-
-## You are here now.
 {% include relative.html %}
+### [About]({{ relative }}/about/)
+### [Blog]({{ relative }}/blog/)
+### [Resume]({{ relative }}/Resume/)
+### [Work]({{ relative }}/work/)
+
 ![Groundhog]({{ relative }}/assets/groundhog.png){:class="img-homepage"}
 
