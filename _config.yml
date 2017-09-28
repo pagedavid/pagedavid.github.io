@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Page David
-email: davideclark2012@gmail.com
+email: hellodavidclark@gmail.com
 author: David Edward Clark
 description: > # this means to ignore newlines until "baseurl:"
   A simple website to share my resume and work, and do a little blogging.
@@ -23,6 +23,16 @@ url: "" # http://192.168.1.14/pagedavid the base hostname & protocol for your si
 permalink: /blog/:title/
 twitter_username: 
 github_username:  
+
+navigation:
+  - title: About
+    url: /about/
+  - title: Portfolio
+    url: /portfolio/
+  - title: Resume
+    url: /resume/
+  - title: Blog
+    url: /blog/
 
 # Build settings
 markdown: kramdown
