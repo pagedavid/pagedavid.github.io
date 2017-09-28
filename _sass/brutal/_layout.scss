@@ -26,6 +26,9 @@ header, footer {
 }
 
 @media screen and (max-width: 600px) {
+  html {
+    font-size: 100% !important;
+  }
   main {
     margin-left: 0em;
   }
