@@ -21,7 +21,8 @@ html {
     text-decoration: none;
     border-bottom: 2px solid black;
   }
-  a:hover {
+  a:hover,
+  a.active {
     color: red;
     border-bottom: 2px solid red;
     border-top: 2px solid red;
@@ -35,11 +36,8 @@ html {
   float: right;
   background-color: white;
 }
-#you-are-here-now {
-	background-color: white;
-	display: inline-block;
-	position: relative;
-	z-index: 10;
+.active {
+  color: red;
 }
 .img-homepage {
 	position: fixed;
