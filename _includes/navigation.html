@@ -1,0 +1,11 @@
+<nav class="site-nav">
+	<div class="trigger">
+  	{% for item in site.navigation %}
+      {% assign class = nil %}
+      {% if page.url contains item.url %}
+          {% assign class = 'active' %}
+      {% endif %}
+      <a href="{{ relative }}{{ item.url }}" class="page-link {{ class }}">{{ item.title | escape }}</a>
+  {% endfor %}
+  </div>
+</nav>
