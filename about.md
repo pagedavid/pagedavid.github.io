@@ -16,6 +16,8 @@ After college, I pursued my interest for creating websites and have been working
 
 From my volunteer experience I've learned that everyone can (and wants to) have something meaningful to offer, and it's simply up to me to realize what that is and encourage it.
 
+- David Clark
+
 **About other things**
 - [This site]({{ relative }}{% post_url 2017-09-21-making-pagedavid-com %})
 - [Video and Photography Experience]({{ relative }}{% post_url 2017-09-22-video-and-photography-experience %})
