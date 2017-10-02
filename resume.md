@@ -3,11 +3,12 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
+{% include relative.html %}
 
 David Edward Clark
 ------------------
 
-download PDF version containing contact information
+[download PDF version with contact information]({{relative}}/assets/RESUME_david-edward-clark.pdf)
 
 Work Experience
 ---------------
